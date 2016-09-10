@@ -1,0 +1,50 @@
+body
+{
+	background-image: url("http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg");
+	font-size: 17px;	
+}
+i
+{
+	color: yellowgreen;
+}
+body
+{
+	color: yellowgreen;
+}
+.right
+{
+    width:200px;
+    margin: auto;
+    border: 0px solid #73AD21;
+}
+h2
+{
+	color: yellowgreen;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: green;
+}
+
+.active {
+    background-color: #4CAF50;
+}
